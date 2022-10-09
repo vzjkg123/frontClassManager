@@ -1,5 +1,7 @@
 # class_manager
 
+## ClassManager项目的前端代码，vue写的。是为了学后端才写的前端代码，写的不好的地方肯定不少，代码质量不高，放在这是给自己做个留念
+
 ## Project setup
 ```
 npm install
